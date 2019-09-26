@@ -1,0 +1,1 @@
+{"bounds":{"min":[583463.43,6123613.3,-31.18],"max":[586597.08,6127162.34,34.95]},"projection":"+proj=utm +zone=50 +south +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs","sources":[{"name":"Mar19merged.laz","points":20685733,"bounds":{"min":[583463.43,6123613.3,-31.18],"max":[586597.08,6127162.34,34.95]}}]}
