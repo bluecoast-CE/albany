@@ -1,0 +1,102 @@
+{
+  "logos": {
+    "top": "logos/logo-cityofalbany.jpg",
+    "designedby": "logos/logo-bluecoast.png"
+  },
+  "pointclouds": [{
+    "label": "December_2018",
+    "directory": "December_2018"
+  },{
+    "label": "March_2019",
+    "directory": "March_2019"
+  },{
+    "label": "Bathymetry",
+    "directory": "bathy"
+  }],
+  "data": [
+    {
+      "type": "point",
+      "point": [586151.44, 6125361.20, 0],
+      "name": "Emu Point",
+      "category": "Nearshore monitoring sites",
+      "modal": {
+        "exportSrc": "data/EmuPoint/EmuPointdata.zip",
+        "imgs": [
+          {
+            "label": "Wave time series",
+            "imgSrc": "data/EmuPoint/WaveTimeSeries.png"
+          },{
+            "label": "Wave rose swell",
+            "imgSrc": "data/EmuPoint/swellRose.png"
+          },{
+            "label": "Wave rose sea",
+            "imgSrc": "data/EmuPoint/seaRose.png"
+          },{
+            "label": "Currents time series",
+            "imgSrc": "data/EmuPoint/CurrentTimeSeries.png"
+          }
+        ]
+      }
+    },
+    {
+      "type": "point",
+      "point": [584466.00, 6124220.00, 0],
+      "name": "Middleton Beach",
+      "category": "Nearshore monitoring sites",
+      "modal": {
+        "exportSrc": "data/Middleton/MiddletonBeachData.zip",
+        "imgs": [
+          {
+            "label": "Wave time series",
+            "imgSrc": "data/Middleton/WaveTimeSeries.png"
+          },{
+            "label": "Wave rose swell",
+            "imgSrc": "data/Middleton/swellRose.png"
+          },{
+            "label": "Wave rose sea",
+            "imgSrc": "data/Middleton/seaRose.png"
+          },{
+            "label": "Currents time series",
+            "imgSrc": "data/Middleton/CurrentTimeSeries.png"
+          }
+        ]
+      }
+    },
+    {
+      "type": "profile",
+      "category": "Beach profiles",
+      "points": [
+        [586396.7737,6126805.05	,1.285],
+        [586401.4894,6126813.869,0.863],
+        [586406.2051,6126822.687,0.632],
+        [586410.9207,6126831.505,0.24],
+        [586415.6364,6126840.324,-0.436],
+        [586420.3521,6126849.142,-0.774],
+        [586425.0678,6126857.96	,-0.764],
+        [586429.7834,6126866.778,-0.77],
+        [586434.4991,6126875.597,-0.82],
+        [586439.2148,6126884.415,-0.837],
+        [586443.9304,6126893.233,-0.913],
+        [586448.6461,6126902.052,-0.913],
+        [586453.3618,6126910.87	,-0.844],
+        [586458.0774,6126919.688,-0.838],
+        [586462.7931,6126928.507,-0.897],
+        [586467.5088,6126937.325,-0.785],
+        [586472.2245,6126946.143,-0.694],
+        [586476.9401,6126954.961,-0.613]
+      ],
+      "name": "OH-02",
+      "modal": {
+        "exportSrc": "data/OH-02transect/OH-02transect.zip",
+        "imgs": [
+          {
+            "label": "Trans plot",
+            "imgSrc": "data/OH-02transect/Trns_Plot_OH-02.png"
+          }
+        ]
+      }
+    }
+  ]
+}
+
+  
