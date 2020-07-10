@@ -2,28 +2,28 @@
     "version": "1.7",
     "octreeDir": "data",
     "projection": "+proj=utm",
-    "points": 1335094,
+    "points": 1305463,
     "boundingBox": {
-        "lx": 583950.7,
-        "ly": 6124497.1,
-        "lz": -10.0,
-        "ux": 584112.1,
+        "lx": 583950.9,
+        "ly": 6124498.0,
+        "lz": -7.0,
+        "ux": 584111.4,
         "uy": 6124658.5,
-        "uz": 151.40000000002329
+        "uz": 153.5
     },
     "tightBoundingBox": {
-        "lx": 583950.7,
-        "ly": 6124497.1,
-        "lz": -10.0,
-        "ux": 584112.1,
-        "uy": 6124627.8,
+        "lx": 583950.9,
+        "ly": 6124498.0,
+        "lz": -7.0,
+        "ux": 584111.4,
+        "uy": 6124626.7,
         "uz": -1.0
     },
     "pointAttributes": [
         "POSITION_CARTESIAN",
         "COLOR_PACKED"
     ],
-    "spacing": 1.397765040397644,
+    "spacing": 1.3899707794189454,
     "scale": 0.001,
     "hierarchyStepSize": 5
 }
