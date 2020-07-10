@@ -12,7 +12,16 @@
   },{
     "label": "Bathymetry",
     "directory": "bathy"
-  }],
+  },{
+    "label": "ASR Armour",
+    "directory": "ASR_Armour"
+    },{
+    "label": "ASR Core",
+    "directory": "ASR_Core"
+    },{
+    "label": "ASR Sandbelly",
+    "directory": "ASR_Sandbelly"
+    }],
   "data": [
     {
       "type": "point",
@@ -98,5 +107,3 @@
     }
   ]
 }
-
-  
